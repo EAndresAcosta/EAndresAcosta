@@ -11,7 +11,7 @@
 
 Soy Andrés Acosta, un científico de datos apasionado por descubrir insights valiosos a partir de datos. He tenido la oportunidad de trabajar con diversas herramientas y tecnologías que me han permitido desarrollar competencias sólidas en el análisis y la visualización de datos.
 
-Poseo competencia en **Python**, donde he desarrollado scripts y aplicaciones para el procesamiento y análisis de datos. Mi interés en **Machine Learning** me ha llevado a implementar modelos predictivos que resuelven problemas reales y facilitan la toma de decisiones basada en datos. Además, tengo conocimientos en **visualización de datos** utilizando bibliotecas como **Matplotlib** y **Seaborn**, lo que me permite presentar información de manera clara y efectiva.
+Poseo competencia en **Python**, donde he desarrollado scripts y aplicaciones para el procesamiento y análisis de datos. Mi interés en **Machine Learning** me ha llevado a implementar modelos predictivos que facilitan la toma de decisiones basada en datos. Además, tengo conocimientos en **visualización de datos** utilizando bibliotecas como **Matplotlib** y **Seaborn**, lo que me permite presentar información de manera clara y efectiva.
 
 Tengo un buen dominio de **Git**, lo que me permite gestionar versiones de proyectos de manera eficiente y colaborar efectivamente en entornos de equipo. Mi competencia en **MySQL** me ha capacitado para trabajar con bases de datos, optimizando consultas y estructurando datos de manera que sean fácilmente accesibles y analizables. También poseo conocimientos sobre comandos en la terminal basados en **Linux**, lo que me permite navegar y gestionar proyectos de manera eficiente en entornos Unix.
 
