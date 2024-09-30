@@ -130,8 +130,8 @@ graph TD;
 <h2>
   Estadisticas Github
 
-  ![GitHub Followers](https://img.shields.io/github/followers/bastndev?style=social)
-  ![GitHub Followers](https://img.shields.io/github/stars/bastndev?style=social)
+  ![GitHub Followers](https://img.shields.io/github/followers/EAndresAcosta?style=social)
+  ![GitHub Followers](https://img.shields.io/github/stars/EAndresAcosta?style=social)
 </h2>
 
 [![EAndresAcosta github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EAndresAcosta&bg_color=0d1117&color=ffffff&line=00CCDD&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
