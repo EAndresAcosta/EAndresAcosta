@@ -11,7 +11,7 @@
 
 Soy Andrés Acosta, un científico de datos apasionado por descubrir insights valiosos a partir de datos. He tenido la oportunidad de trabajar con diversas herramientas y tecnologías que me han permitido desarrollar competencias sólidas en el análisis y la visualización de datos.
 
-Poseo competencia en **Python**, donde he desarrollado scripts y aplicaciones para el procesamiento y análisis de datos. Mi interés en **Machine Learning** me ha llevado a implementar modelos predictivos que resuelven problemas reales y facilitan la toma de decisiones basada en datos. Además, tengo conocimientos en **visualización de datos** utilizando bibliotecas como **Matplotlib** y **Seaborn**, lo que me permite presentar información de manera clara y efectiva.
+Poseo competencia en **Python**, donde he desarrollado scripts y aplicaciones para el procesamiento y análisis de datos. Mi interés en **Machine Learning** me ha llevado a implementar modelos predictivos que facilitan la toma de decisiones basada en datos. Además, tengo conocimientos en **visualización de datos** utilizando bibliotecas como **Matplotlib** y **Seaborn**, lo que me permite presentar información de manera clara y efectiva.
 
 Tengo un buen dominio de **Git**, lo que me permite gestionar versiones de proyectos de manera eficiente y colaborar efectivamente en entornos de equipo. Mi competencia en **MySQL** me ha capacitado para trabajar con bases de datos, optimizando consultas y estructurando datos de manera que sean fácilmente accesibles y analizables. También poseo conocimientos sobre comandos en la terminal basados en **Linux**, lo que me permite navegar y gestionar proyectos de manera eficiente en entornos Unix.
 
@@ -164,7 +164,3 @@ Mis repositorios reflejan una variedad de proyectos relacionados con el análisi
 <div align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </div>
-
-[](https://EAndresAcosta.githubusercontent.com/c1db493585a70e5e21567f28c8d139b2eaa601247fa3eafb0408d80973508fdc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d626173746e6465762673686f775f69636f6e733d74727565266c6f63616c653d6573267468656d653d6461726b)
-
-[](https://EAndresAcosta.githubusercontent.com/28df207efb5d7400ccf3b7b0ae68da569189feb225cf1a7162a8da575d8467ec/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d59616d6f736869446576267468656d653d64726163756c6126726f773d32266e6f2d62673d7472756526636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135)
