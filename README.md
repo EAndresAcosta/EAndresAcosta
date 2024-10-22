@@ -21,7 +21,7 @@ Estoy abierto a nuevas oportunidades y colaboraciones, y siempre estoy dispuesto
 
 <!----------------------------------------------------------------------------------------------------------------------------------->
 
-## Encontrame en:
+## Encuentrame en:
 <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-acosta1992/)
