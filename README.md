@@ -9,15 +9,9 @@
   Acerca de mí
 </h2>
 
-Soy Andrés Acosta, un científico de datos apasionado por descubrir insights valiosos a partir de datos. He tenido la oportunidad de trabajar con diversas herramientas y tecnologías que me han permitido desarrollar competencias sólidas en el análisis y la visualización de datos.
+Científico de datos especializado en la transformación de datos en información estratégica para la toma de decisiones. Cuento con experiencia en Python, desarrollo de scripts y aplicaciones para optimización de procesos, y en la implementación de modelos predictivos de Machine Learning para mejorar la precisión en decisiones basadas en datos.
 
-Poseo competencia en **Python**, donde he desarrollado scripts y aplicaciones para el procesamiento y análisis de datos. Mi interés en **Machine Learning** me ha llevado a implementar modelos predictivos que facilitan la toma de decisiones basada en datos. Además, tengo conocimientos en **visualización de datos** utilizando bibliotecas como **Matplotlib** y **Seaborn**, lo que me permite presentar información de manera clara y efectiva.
-
-Tengo un buen dominio de **Git**, lo que me permite gestionar versiones de proyectos de manera eficiente y colaborar efectivamente en entornos de equipo. Mi competencia en **MySQL** me ha capacitado para trabajar con bases de datos, optimizando consultas y estructurando datos de manera que sean fácilmente accesibles y analizables. También poseo conocimientos sobre comandos en la terminal basados en **Linux**, lo que me permite navegar y gestionar proyectos de manera eficiente en entornos Unix.
-
-Soy una persona curiosa y en constante aprendizaje, siempre en busca de nuevas técnicas y enfoques para mejorar mis habilidades. Me entusiasma la idea de aplicar la ciencia de datos en proyectos innovadores que generen un impacto positivo.
-
-Estoy abierto a nuevas oportunidades y colaboraciones, y siempre estoy dispuesto a enfrentar nuevos desafíos que me permitan crecer profesionalmente.
+Domino herramientas de visualización como Matplotlib y Seaborn, logrando una comunicación efectiva de resultados. Con enfoque en aprendizaje continuo, busco aportar en proyectos innovadores que generen impacto y valor. Estoy abierto a nuevos desafíos que impulsen mi desarrollo profesional.
 
 <!----------------------------------------------------------------------------------------------------------------------------------->
 
