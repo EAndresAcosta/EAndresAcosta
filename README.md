@@ -9,23 +9,17 @@
   Acerca de mí
 </h2>
 
-Soy Andrés Acosta, un científico de datos apasionado por descubrir insights valiosos a partir de datos. He tenido la oportunidad de trabajar con diversas herramientas y tecnologías que me han permitido desarrollar competencias sólidas en el análisis y la visualización de datos.
+Científico de datos especializado en la transformación de datos en información estratégica para la toma de decisiones. Cuento con experiencia en **Python**, desarrollo de **scripts** y aplicaciones para optimización de procesos, y en la implementación de modelos predictivos de **Machine Learning** para mejorar la precisión en decisiones basadas en datos.
 
-Poseo competencia en **Python**, donde he desarrollado scripts y aplicaciones para el procesamiento y análisis de datos. Mi interés en **Machine Learning** me ha llevado a implementar modelos predictivos que facilitan la toma de decisiones basada en datos. Además, tengo conocimientos en **visualización de datos** utilizando bibliotecas como **Matplotlib** y **Seaborn**, lo que me permite presentar información de manera clara y efectiva.
-
-Tengo un buen dominio de **Git**, lo que me permite gestionar versiones de proyectos de manera eficiente y colaborar efectivamente en entornos de equipo. Mi competencia en **MySQL** me ha capacitado para trabajar con bases de datos, optimizando consultas y estructurando datos de manera que sean fácilmente accesibles y analizables. También poseo conocimientos sobre comandos en la terminal basados en **Linux**, lo que me permite navegar y gestionar proyectos de manera eficiente en entornos Unix.
-
-Soy una persona curiosa y en constante aprendizaje, siempre en busca de nuevas técnicas y enfoques para mejorar mis habilidades. Me entusiasma la idea de aplicar la ciencia de datos en proyectos innovadores que generen un impacto positivo.
-
-Estoy abierto a nuevas oportunidades y colaboraciones, y siempre estoy dispuesto a enfrentar nuevos desafíos que me permitan crecer profesionalmente.
+Domino herramientas de visualización como **Matplotlib** y **Seaborn**, logrando una comunicación efectiva de resultados. Con enfoque en aprendizaje continuo, busco aportar en proyectos innovadores que generen impacto y valor. Estoy abierto a nuevos desafíos que impulsen mi desarrollo profesional.
 
 <!----------------------------------------------------------------------------------------------------------------------------------->
 
 ## Encuentrame en:
-<div align="center">
+<div align="left">
 
-  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-acosta1992/)
-  [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:andres921411@gmail.com)
+  [![My Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/andres-acosta-data/)
+  [![Mail Badge](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light&link=mailto:👽@gmail.com)](mailto:andres921411@gmail.com)
 
 </div>
 
@@ -79,6 +73,7 @@ graph TD;
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark)](https://numpy.org/doc/)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark)](https://scikit-learn.org/)
     [![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark&perline=15)](https://www.tensorflow.org/api_docs)
+    [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark)](https://pytorch.org/docs/stable/index.html)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com/)
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark)](https://docs.jupyter.org/)
 
@@ -86,7 +81,7 @@ graph TD;
     [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark&perline=15)](https://dev.mysql.com/doc/)
     [![My Skills](https://skillicons.dev/icons?i=postgresql&theme=dark&perline=15)](https://www.postgresql.org/docs/)
     [![My Skills](https://skillicons.dev/icons?i=gcp&theme=dark&perline=15)](https://cloud.google.com/?hl=es)
-    [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark&perline=15)](https://aws.amazon.com/es/)
+    [![My Skills](https://skillicons.dev/icons?i=azure&theme=dark&perline=15)](https://azure.microsoft.com/es-es)
 
   * ### Herramientas de desarrollo:
     [![My Skills](https://skillicons.dev/icons?i=git&theme=dark&perline=15)](https://git-scm.com/doc)
@@ -104,7 +99,7 @@ graph TD;
   * ### Sistemas operativos:
     [![My Skills](https://skillicons.dev/icons?i=windows&theme=dark&perline=15)](https://learn.microsoft.com/en-us/windows/)
     [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark&perline=15)](https://www.hostinger.co/tutoriales/linux-comandos)
-    [![My Skills](https://skillicons.dev/icons?i=ubuntu&theme=dark&perline=15)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=ubuntu&theme=dark&perline=15)](https://documentation.ubuntu.com/wsl/en/latest/)
   
   * ### Herramientas de gestión de proyectos:
     [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=slack&theme=dark)](https://slack.com/intl/es-la)
